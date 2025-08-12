@@ -18,7 +18,7 @@
 
 ## 🌍 Idiomas:
 - Português (Nativo)  
-- Inglês (Intermediário/Avançado)  
+- Inglês (Intermediário)  
 
 ---
 
@@ -40,8 +40,8 @@
 ---
 
 ## 📫 Entre em contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-melantonio)  
-[![Gmail](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](mailto:felipemelantonio3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-melantonio)  
+[![Gmail](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:felipemelantonio3@gmail.com)  
 
 ---
 
