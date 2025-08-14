@@ -10,7 +10,7 @@
 
 ## 📚 Experiência Acadêmica:
 - **Mackenzie** | Graduação em Sistemas de Informação  
-  *Fev 2023 – Dezembro 2027*  
+  *Fev 2024 – Dezembro 2027*  
   - Disciplinas com foco em programação, banco de dados, engenharia de software e arquitetura de sistemas  
   - Desenvolvimento de projetos práticos aplicados ao mercado
 
