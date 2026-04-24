@@ -3,7 +3,7 @@
 ## Sobre mim:
 - 🎓 Atualmente cursando **Sistemas de Informação** na Universidade Presbiteriana Mackenzie (5º semestre)  
 - 💻 Foco em desenvolvimento backend e frontend com **Java**, **Spring Boot**, **APIs RESTful** , **React.js** , **SQL**  
-- 🚀 Experiência com projetos pessoais como sistema de Mini Conta Digital e Assistente de programação com IA e alguns Freelance
+- 🚀 Experiência com projetos pessoais como sistema de Mini Conta Digital, Assistente de programação com IA e alguns Freelances(Venda de Sites)
 - 📚 Sempre buscando aprender novas tecnologias e aplicá-las em soluções criativas e eficientes  
 
 ---
